@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SquareReader'
-s.version = '13.30.13'
+s.version = '14.0.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
